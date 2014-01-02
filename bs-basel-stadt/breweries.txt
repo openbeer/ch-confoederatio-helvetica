@@ -1,0 +1,39 @@
+###########################
+# Basel-Stadt, BS
+
+
+[luusbueb]
+  Brauerei Luusbueb, 2010
+  // 4054 Basel
+  25 hl
+
+[birtel]
+  Brauerei Bîrtel, 2012
+  www.birtel.ch
+  Flughafenstrasse 31 // 4056 Basel
+
+[basiliske]
+  Brauerei Basiliske Bier, 2013
+  www.basiliskebier.ch
+  Wiesenschanzweg 34 // 4057 Basel
+
+[kaeppelijoch]
+  Brauerei Käppelijoch, 1996
+  Colmarerstrasse 16 // 4055 Basel
+  40 hl
+
+[zurgruenenamsel]
+  Brauerei zur grünen Amsel, 2010
+  Schmiedgasse 30 // 4125 Riehen
+  100+ hl
+
+
+####################
+# Brewpub
+
+[uelibier]
+  Brauerei Fischerstube|Ueli Bier, 1974
+  www.uelibier.ch
+  Rheingasse 45 // 4058 Basel
+  4_750 hl
+

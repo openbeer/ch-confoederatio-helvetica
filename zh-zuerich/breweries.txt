@@ -1,0 +1,101 @@
+############################
+# Zürich, ZH
+
+
+[sudwerk]
+  Brauerei Sudwerk, 2010
+  www.sudwerk.ch
+  Speckstrasse 3 // 8330 Pfäffikon (ZH)
+  2_000 hl  # Jahresproduktion
+
+[uster]
+  Brauerei Uster, 2007
+  www.brauereiuster.ch
+  Brauereistrasse 16 // 8610 Uster
+
+[doppelleu]
+  Doppelleu Brauwerkstatt, 2012
+  www.doppelleu.ch
+  Industriestrasse 40b // 8404 Winterthur
+  4_000 hl
+
+[euelbraeu]
+  Euelbräu|Brauerei zur Euelwies, 2007
+  www.euelbraeu.ch
+  In der Euelwies 7a // 8408 Winterthur
+  1_500 hl
+
+[stadtguet]
+  Stadtguet, 2002
+  www.stadtguet.ch
+  Industriestrasse 35 // 8400 Winterthur
+
+[turbinenbraeu]
+  Turbinen Bräu, 1997
+  www.turbinenbraeu.ch
+  Badenerstrasse 571 // 8048 Zürich
+  17_000 hl
+
+[waedibraeu]
+  Wädi Bräu, 1992
+  www.waedenswiler.ch
+  Florhofstrasse 13 // 8820 Wädenswil
+  1_600 hl
+
+[brauwerk]
+  Brauerei Brauwerk, 2010
+  In der Längelen 3 // 8165 Oberweningen
+  80-100 hl # Jahresproduktion
+
+[rueedel]
+  Brauerei Gambrinus / Rüedel, 2005
+  www.rueedel.ch
+  Adlergasse 5 // 8245 Feuerthalen
+
+[gutknecht]
+  Brauerei Gutknecht's Hammer-Bier, 2004
+  In den Linden 29 // 8153 Rümlang
+  30-40 hl   # Jahresproduktion
+
+[chasperlibraeu]
+  Chasperlibräu, 2012
+  // 8049 Zürich
+  5-10 hl  # Jahresproduktion
+
+[fischenthal]
+  Brauverein Fischenthal|Hörnlibräu, 2006
+  www.brauverein-fischenthal.ch
+  Bahnhofstrasse 5 // 8497 Fischenthal
+
+[ladus]
+  Brauerei Ladus, 2013
+  www.ladus.ch
+  Neufeldstrasse 3 // 8154 Oberglatt (ZH)
+
+[ecmbraeu]
+  ECM Bräu|Brauerei Flüegass, 2005
+  www.sbier.ch
+  Flühgasse 8 // 8008 Zürich
+  250 hl
+
+[drachenbraeu]
+  Brauerei Drachenbräu, 2006
+  www.drachenbraeu.ch
+  Bickelstrasse 22 // 8942 Oberrieden
+
+
+#####################
+# Brewpubs
+
+[steinfels]
+  Restaurant Steinfels, 2007
+  www.steinfels-zuerich.ch
+  Heinrichstrasse 267 // 8005 Zürich
+  1_500 hl
+
+[feldhof]
+  Brauerei Feldhof, 2009
+  www.brauereifeldhof.ch
+  Zürichstrasse 82 // 8118 Pfaffhausen
+  640 hl
+
