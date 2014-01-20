@@ -1,6 +1,11 @@
-# Beers n Breweries in Switzerland (Schweiz)
+# Beers, Breweries n Brewpubs in Switzerland (Schweiz)
 
-Free open public domain beer n brewery data for Switzerland (Schweiz) / Europe
+Free open public domain beer, brewery n brewpub data for Switzerland (Schweiz) / Europe.
+Example:
+
+~~~
+
+~~~
 
 
 ## Questions? Comments?

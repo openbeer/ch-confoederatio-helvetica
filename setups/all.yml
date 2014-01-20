@@ -1,0 +1,35 @@
+
+breweries:
+- ch-confoederatio-helvetica!/1--ge-geneve--geneva/breweries
+- ch-confoederatio-helvetica!/1--vd-vaud--geneva/breweries
+- ch-confoederatio-helvetica!/1--vs-valais--geneva/breweries
+- ch-confoederatio-helvetica!/2--be-bern--espace-mittelland/breweries
+- ch-confoederatio-helvetica!/2--fr-fribourg--espace-mittelland/breweries
+- ch-confoederatio-helvetica!/2--ju-jura--espace-mittelland/breweries
+- ch-confoederatio-helvetica!/2--ne-neuchatel--espace-mittelland/breweries
+- ch-confoederatio-helvetica!/2--so-solothurn--espace-mittelland/breweries
+- ch-confoederatio-helvetica!/3--ag-aargau--northwestern/breweries
+- ch-confoederatio-helvetica!/3--bl-basel-landschaft--northwestern/breweries
+- ch-confoederatio-helvetica!/3--bs-basel-stadt--northwestern/breweries
+- ch-confoederatio-helvetica!/4--zh-zuerich/breweries
+- ch-confoederatio-helvetica!/5--ai-appenzell-innerrhoden--eastern/breweries
+- ch-confoederatio-helvetica!/5--ar-appenzell-ausserhoden--eastern/breweries
+- ch-confoederatio-helvetica!/5--gl-glarus--eastern/breweries
+- ch-confoederatio-helvetica!/5--gr-graubuenden--eastern/breweries
+- ch-confoederatio-helvetica!/5--sg-st-gallen--eastern/breweries
+- ch-confoederatio-helvetica!/5--sh-schaffhausen--eastern/breweries
+- ch-confoederatio-helvetica!/5--tg-thurgau--eastern/breweries
+- ch-confoederatio-helvetica!/6--lu-luzern--central/breweries
+- ch-confoederatio-helvetica!/6--nw-nidwalden--central/breweries
+- ch-confoederatio-helvetica!/6--ow-obwalden--central/breweries
+- ch-confoederatio-helvetica!/6--sz-schwyz--central/breweries
+- ch-confoederatio-helvetica!/6--ur-uri--central/breweries
+- ch-confoederatio-helvetica!/6--zg-zug--central/breweries
+- ch-confoederatio-helvetica!/7--ti-ticino/breweries
+
+
+beers:
+- ch-confoederatio-helvetica!/3--bs-basel-stadt--northwestern/beers
+- ch-confoederatio-helvetica!/4--zh-zuerich/beers
+
+
