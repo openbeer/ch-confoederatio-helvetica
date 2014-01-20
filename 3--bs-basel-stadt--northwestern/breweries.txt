@@ -1,5 +1,5 @@
-###########################
-# Basel-Stadt, BS
+############################################################
+# Breweries in Basel-Stadt (bs) / Northwestern Switzerland
 
 
 [luusbueb]
